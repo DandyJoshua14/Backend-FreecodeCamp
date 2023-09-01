@@ -1,6 +1,7 @@
 {
 	"author": "Dandy Joshua",
 	"name": "fcc-learn-npm-package-json",
+  "author": "Dandy Joshua",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
